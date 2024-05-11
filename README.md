@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/andreyvlv/Snake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyvlv&repo=Snake)](https://github.com/andreyvlv/Snake)
